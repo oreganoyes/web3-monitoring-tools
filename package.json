@@ -1,0 +1,22 @@
+{
+    "name": "web3-monitoring-tools",
+    "version": "1.1.1",
+    "description": "Provides monitoring tools for Web3 applications and smart contracts.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oreganoyes/content-enhancer-nft"
+    },
+    "author": "oreganoyes",
+    "license": "ISC",
+    "dependencies": {
+      "web3": "^1.3.5",
+      "dotenv": "^8.2.0",
+      "web3-deployment-manager": "1.0.0",
+      "web3-monitoring-tools": "1.0.0"
+    }
+  }
+  
